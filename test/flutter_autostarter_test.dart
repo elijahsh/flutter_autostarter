@@ -18,6 +18,6 @@ void main() {
   });
 
   test('getPlatformVersion', () async {
-    expect(await FlutterAutostarter.platformVersion, '42');
+    expect(await FlutterAutostarter.isAutoStartPermissionAvailable, true);
   });
 }

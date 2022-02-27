@@ -29,7 +29,7 @@ flutter:
     platforms:
       android:
         package: com.elijahsh.flutter_autostarter
-        pluginClass: FlutterAutostarterPlugin
+        pluginClass: FlutterAutoStarterPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
